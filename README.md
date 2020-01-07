@@ -2,24 +2,27 @@ UI
 ===========
 Web UI for my tools.
 
-
 ***
 
-## [Jaeles](https://github.com/j3ssie/Jaeles)
+## [Jaeles](https://github.com/jaeles-project/jaeles)
 
-![UI-1](screenshots/jaeles-ui-03.png)
+![JUI-0](screenshots/jaeles-ui-00.png)
 
-![UI-1](screenshots/jaeles-ui-05.png)
+![JUI-1](screenshots/jaeles-ui-01.png)
 
-![UI-1](screenshots/jaeles-ui-01.png)
+![JUI-2](screenshots/jaeles-ui-02.png)
 
-![UI-1](screenshots/jaeles-ui-02.png)
+***
+## [Osmedeus](https://github.com/j3ssie/osmedeus)
 
-![UI-1](screenshots/jaeles-ui-04.png)
+![OUI-0](screenshots/osmedeus-ui-00.png)
+
+![OUI-1](screenshots/osmedeus-ui-01.png)
+
+![OUI-2](screenshots/osmedeus-ui-02.png)
 
 
-![UI-1](screenshots/jaeles-ui-06.png)
-
+***
 
 ## Installation
 ```
