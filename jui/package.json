@@ -23,7 +23,7 @@
     "@carbon/icons-react": "^10.4.1",
     "@carbon/themes": "^10.4.0",
     "apollo-boost": "^0.4.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "carbon-components": "^10.4.1",
     "carbon-components-react": "^7.4.1",
     "chart.js": "^2.8.0",
