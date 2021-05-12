@@ -26,7 +26,7 @@
     "axios": "^0.19.0",
     "carbon-components": "^10.4.1",
     "carbon-components-react": "^7.4.1",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "clipboard-copy": "^3.1.0",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
